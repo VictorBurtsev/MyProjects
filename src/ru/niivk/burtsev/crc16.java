@@ -1,11 +1,5 @@
 package ru.niivk.burtsev;
 
-/**
- * Burtsev Victor
- * PLC Scientific Research Institute of Computer Complexes (M. Kartsev)
- * Senior developer engineer NTC-4
- * 07.07.2016
- */
 public class crc16 {
 
     private final int polynomial = 0xA001;
